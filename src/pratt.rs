@@ -512,7 +512,7 @@ macro_rules! impl_pratt_for_tuple {
     };
 }
 
-impl_pratt_for_tuple!(A_ B_ C_ D_ E_ F_ G_ H_ I_ J_ K_ L_ M_ N_ O_ P_ Q_ R_ S_ T_ U_ V_ W_ X_ Y_ Z_);
+impl_pratt_for_tuple!(A_ B_ C_ D_ E_ F_ G_ H_ I_ J_ K_ L_ M_ N_ O_ P_ Q_ R_ S_ T_ U_ V_ W_ X_ Y_ Z_ AA_ BB_ CC_ DD_ EE_ FF_ GG_ HH_ II_ JJ_ KK_ LL_ MM_ NN_ OO_ PP_ QQ_ RR_ SS_ TT_ UU_ VV_ WW_ XX_ YY_ ZZ_);
 
 #[cfg(test)]
 mod tests {
